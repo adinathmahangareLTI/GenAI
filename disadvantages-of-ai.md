@@ -1,0 +1,11 @@
+- replace human workers - large scale unemployment
+- creates gap between humans and machines
+- expensive equipments
+- Ethics and Privacy issues
+- Artificial Intelligence can't think creatively - lacks intuition
+- Can't understand context
+- Algorithms are always not reliable
+- Cannot be trusted
+- Can't Feel Emotions
+- Increased risk of cyber crimes
+  
